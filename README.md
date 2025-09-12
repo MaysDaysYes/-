@@ -21,7 +21,9 @@ ivgen2006@mail.ru
     *   Зайдите на страницу вашего репозитория.
     *   Нажмите зеленую кнопку **"<> Code"**.
     *   Скопируйте предложенный URL (например, `https://github.com/MaysDaysYes/-`).
-      ![](screen)   
+      
+      ![](screen.png)
+
 4.  **Выполните команду `git clone`**, вставив скопированный URL:
     ```bash
     git clone https://github.com/MaysDaysYes/-
